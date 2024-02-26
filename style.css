@@ -1,0 +1,57 @@
+.container {
+    font-family: "Permanent Marker", cursive;
+    font-weight: 300;
+    font-style: normal;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    color: #ffb959;
+  }
+
+  #ruleExplanation {
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Permanent Marker", cursive;
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
+    color: #ffb959;   
+  }
+  
+  #rule {
+    font-style: italic;
+    font-family: "Permanent Marker", cursive;
+    margin: auto;
+    text-align: center; 
+    color: #f3e0cf;
+    
+  }
+
+  .text-body-emphasis {
+    color: white;
+  }
+
+  .play .playerColor {
+    color: #ffb959;
+    padding-top: 50px;
+    font-size: 30px;
+    font-family: "Permanent Marker", cursive;
+  }
+
+  img { 
+    width: 100%;
+  }
+  
+  .play {
+    text-align: center;
+    display: inline-block;
+  }
+
+  footer {
+  color:#ffd6b5; 
+  }
+  
+
+  
